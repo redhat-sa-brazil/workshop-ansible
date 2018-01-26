@@ -7,3 +7,6 @@
   - [Preparações](part1/preparation.md)
   - [Execução Ad-Hoc](part1/adhoc.md)
   - [Execução Playbooks](part1/playbooks.md)
+
+- Parte 2 - Ansible Tower
+  - [Introdução](part2/introduction.md)
