@@ -54,10 +54,9 @@ sudo subscription-manager repos --enable rhel-7-server-extras-rpms
 sudo yum install ansible
 ```
 
-Caso você esteja usando CentOS 7 como **Máquina de Controle**, você precisa ativar o EPEL antes de instalar o Ansible Engine:
+Caso você esteja usando CentOS 7 como **Máquina de Controle**, basta executar:
 
 ```bash
-sudo yum install epel-release
 sudo yum install ansible
 ```
 
